@@ -1,0 +1,1 @@
+# tp-integrador-2026-bot-fispa
