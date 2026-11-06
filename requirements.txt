@@ -1,0 +1,9 @@
+# Fase 1 (parseo de compatibilidades): solo biblioteca estándar + tests
+pytest>=8.0
+
+# Se agregan en las fases siguientes (bot, base de datos, LLM):
+# fastapi
+# uvicorn
+# python-telegram-bot
+# google-genai
+# supabase

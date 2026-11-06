@@ -1,0 +1,17 @@
+# Secretos y entornos
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Datos: la Base Maestra viene de la Fase 0 y no se versiona aquí
+data/*
+!data/.gitkeep
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
